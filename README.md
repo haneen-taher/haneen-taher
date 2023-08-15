@@ -16,9 +16,8 @@ I am Haneen Aburumman, a Front-End Developer.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-##
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ad17d814678473bb617b98?variant=light)](https://roadmap.sh)
+
 
 
 
